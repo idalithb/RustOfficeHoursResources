@@ -8,5 +8,5 @@ plugins:
 
 theme: minima
 
-header_pages:
-- sessions.md
+# header_pages:
+# - sessions.md

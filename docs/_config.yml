@@ -1,0 +1,14 @@
+title: Rust Office Hours
+
+github:
+  is_project_page: true
+
+plugins:
+- jekyll-remote-theme
+
+theme: minima
+
+# header_pages:
+#   - guides.md
+#   - tools.md
+#   - resources.md

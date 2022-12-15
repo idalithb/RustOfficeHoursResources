@@ -1,3 +1,3 @@
-# Rust Office Hours
+Bi-weekly event for The Graph protocol community
 
-Hosted by Alex Pakalniskis
+For session resources, check [Sessions](https://alex-pakalniskis.github.io/RustOfficeHours/sessions)

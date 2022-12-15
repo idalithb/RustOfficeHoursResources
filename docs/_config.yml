@@ -8,7 +8,5 @@ plugins:
 
 theme: minima
 
-# header_pages:
-#   - guides.md
-#   - tools.md
-#   - resources.md
+header_pages:
+  - sessions.md

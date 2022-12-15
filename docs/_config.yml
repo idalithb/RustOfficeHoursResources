@@ -9,4 +9,4 @@ plugins:
 theme: minima
 
 header_pages:
-  - sessions.md
+- sessions.md

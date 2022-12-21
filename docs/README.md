@@ -1,3 +1,3 @@
-Bi-weekly event for The Graph protocol community
+Bi-weekly Rust developer community event on [The Graph protocol Discord Server](https://discord.gg/graphprotocol)
 
-For session resources, check [Sessions](https://alex-pakalniskis.github.io/RustOfficeHours/sessions)
+Check out [Sessions](https://alex-pakalniskis.github.io/RustOfficeHours/sessions) to view learning materials from past events

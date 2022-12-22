@@ -1,5 +1,7 @@
 # Sessions
 
+Learning materials from past and upcoming events
+
 | Date | Topic |
 | --- | --- |
 | [2022-12-16](https://alex-pakalniskis.github.io/RustOfficeHours/sessions/2022-12-16.html) | Query a subgraph |

@@ -1,1 +1,1 @@
-# RustOfficeHours
+# Rust Office Hours Resources
